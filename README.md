@@ -13,3 +13,5 @@ For Health service providers, M-Afya is a versatile mobile e-voucher system that
   
 Redeem vouchers against your health services and products, claim vouchers at your 
 convenience through your phone, receive immediate settlement.
+
+Use "admin" as both username and password to log in to the portal
