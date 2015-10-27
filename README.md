@@ -4,7 +4,7 @@ of the health security of an individual, family, group or corporate in harmony w
 the external health service provison environment
 
 
-To access the system, dial *384*1#
+To access the system, dial * 384 * 1 #
 
 For Health service providers, M-Afya is a versatile mobile e-voucher system that:
   1. Impacts receivables
